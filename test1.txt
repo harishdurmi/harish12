@@ -1,1 +1,3 @@
 jan 20
+
+git clone ----used to clone the repository
